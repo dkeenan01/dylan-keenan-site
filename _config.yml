@@ -29,7 +29,7 @@ twitter_username: N/A
 github_username:  dkeenan01
 
 # Build settings
-theme: minima
+theme: jekyll-theme-modernist
 plugins:
   - jekyll-feed
 
