@@ -4,6 +4,9 @@ title:  "Gibbon’s Geographical Scholarship Analysis"
 date:   2021-09-26 19:15:00 -0400
 categories: jekyll update
 ---
+[**Link to classification spreadsheet**](https://docs.google.com/spreadsheets/d/1bPHRVaIOA3opulHUVRtE4tOR4Cdf0-JJiXYsIy5OoeU/edit?usp=sharing)
+
+
 **What points is this paper trying to explain?**
 
 This paper explains the important interaction between geography and historical naritives. The paper goes into detail about Gibbon's aquistion of geographical knowledge. At the start is highlights the importants of both place and time when looking at historical information. The paper credits his geographic ability as a historian and scholar. It describes his consumtion of geopgrical knowledge and the essential role it played for The Decline and fall of the Roman Empire.
